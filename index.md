@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages of Fancy Gohst ( First CS 193 Assignment) 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,6 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+- Step 6 materials
 - Bulleted
 - List
 
